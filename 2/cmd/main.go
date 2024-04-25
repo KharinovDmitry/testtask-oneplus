@@ -17,5 +17,4 @@ func main() {
 	if err != nil {
 		log.Fatal("Ошибка сохранения: " + err.Error())
 	}
-
 }
